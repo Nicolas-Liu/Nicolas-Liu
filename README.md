@@ -1,5 +1,5 @@
 ### Hello World! 👋
-<img align="right" alt ="gif" src= "https://miro.medium.com/max/1400/1*9m-WDdL_ji01bGbjEnutEw.gif" width="400"/>
+<img align="right" alt ="gif" src= "https://miro.medium.com/max/1400/1*9m-WDdL_ji01bGbjEnutEw.gif" width="360"/>
 
 - 💻 I'm a Business school graduate with a love for coding
 - 🌱 I’m currently learning React.js.
