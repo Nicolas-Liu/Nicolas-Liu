@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning React.js.
 - 📫 How to reach me: https://www.linkedin.com/in/nicolas-liu1/
 - ⚡ Fun fact: I love playing music and practicing martial arts.
-<img align="right" src= "https://miro.medium.com/max/1400/1*9m-WDdL_ji01bGbjEnutEw.gif" width="260"/>
+<img align="top-right" src= "https://miro.medium.com/max/1400/1*9m-WDdL_ji01bGbjEnutEw.gif" width="260"/>
