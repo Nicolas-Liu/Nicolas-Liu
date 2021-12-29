@@ -7,4 +7,4 @@
 - 🎆 Aspiring to be a full stack developer in the future
 - ⚡ Fun fact: I love playing music and practicing martial arts.
 
-[![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolasliu2)](https://github.com/Nicolasliu2/github-readme-stats)
+[![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Liu)](https://github.com/Nicolas-Liu/github-readme-stats)
