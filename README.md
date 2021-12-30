@@ -3,7 +3,7 @@
 
 - 💻 I'm a Business school graduate with a love for coding
 - 🌱 I’m currently learning ReactJs.
-- 📫 How to reach me: https://www.linkedin.com/in/nicolas-liu1/
+- 📫 How to reach me: [LinkedIn]: https://www.linkedin.com/in/nicolas-liu1/
 - 🎆 Aspiring to be a full stack developer in the future
 - ⚡ Fun fact: I love playing music and practicing martial arts.
 
