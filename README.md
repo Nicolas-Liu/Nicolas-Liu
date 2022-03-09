@@ -6,7 +6,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/nicolas-liu1/
 - 🎆 Aspiring to be a full stack developer in the future
 - ⚡ Fun fact: I love playing music and practicing martial arts
-- ⚡ Work experience: <br>
+- 💼 Work experience: <br>
   - Front-End Developer at TedxMontreal (March 2022 - Present)
 
 
