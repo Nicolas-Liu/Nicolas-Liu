@@ -7,7 +7,7 @@
 - 🎆 Aspiring to be a full stack developer in the future
 - ⚡ Fun fact: I love playing music and practicing martial arts
 - 💼 Industry experience: <br>
-  - Front-End Developer at TedxMontreal (March 2022 - Present)
+  - Front-End Developer at TedxMontreal (March 2022 - <b>Present</b>)
 
 
 ### Languages and Tools:
