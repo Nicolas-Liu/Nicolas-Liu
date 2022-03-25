@@ -17,8 +17,10 @@
 <img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SASS" width="28px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />
 <img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="28px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOax_rWNU_kvKxRo4_NQmru9hnu8yUX9PZGg&usqp=CAU" />
 <img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="NodeJs" width="28px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" />
+<img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="PHP" width="28px" src="https://www.designbust.com/download/240/png/php_icon512.png" />
 <img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
