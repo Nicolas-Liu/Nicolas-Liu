@@ -3,7 +3,7 @@
 
 - 💻 I'm a Business school graduate with a love for coding
 - 🌱 I’m currently learning ExpressJs
-- 📫 How to reach me: https://www.linkedin.com/in/nicolas-liu1/
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/nicolas-liu1/" target="_blank">LinkedIn</a>
 - 🎆 Aspiring to be a full stack developer in the future
 - ⚡ Fun fact: I love playing music and practicing martial arts
 - 💼 Industry experience: <br>
