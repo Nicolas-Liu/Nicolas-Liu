@@ -1,5 +1,5 @@
 ### Hello World! 👋
-<img align="right" alt ="gif" src= "https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="320"/>
+<img align="right" alt ="gif" src= "https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="300"/>
 
 - 💻 I'm a Business school graduate with a love for coding
 - 🌱 I’m currently learning ExpressJs
