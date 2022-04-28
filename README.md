@@ -31,4 +31,5 @@
 <br>
 <br>
 
-[![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Liu)](https://github.com/Nicolas-Liu/github-readme-stats)
+![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Liu&show_icons=true&theme=vue-dark)
+
