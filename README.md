@@ -9,7 +9,7 @@
 
 const nicolasLiu = {
     who: "Business school graduate with a love for coding",
-    favoriteTools: ["React", "Nodejs", "Sass", "Figma"],
+    favoriteTools: ["React", "Nodejs", "Sass", "Figma", "Material-UI"],
     askMeAbout: ["web dev", "app dev", "mobile dev"],
     goals: "Aspiring to be a full stack developer in the future",
     funFact: "I love playing music and practicing martial arts",
