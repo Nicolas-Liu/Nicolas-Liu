@@ -26,16 +26,16 @@ console.log(`Hit me up at ${nicolasLiu.linkedIn} for a chat!`)
 
 ### Languages and Tools:
 
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figmal&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=Sass&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=nodejs&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=124bb5)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figmal&logoColor=white&color=124bb5)
+![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=Sass&logoColor=white&color=124bb5)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=124bb5)
+![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=nodejs&logoColor=white&color=124bb5)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=124bb5)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=124bb5)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=124bb5)
+![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=124bb5)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=124bb5)
 <br>
 
 ![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Liu&show_icons=true&theme=vue-dark)
