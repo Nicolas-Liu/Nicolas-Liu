@@ -24,7 +24,7 @@ console.log(`Hit me up at ${nicolasLiu.linkedIn} for a chat!`)
     (March 2022 - <b>Present</b>)
 
 
-### ⚙️ Languages and Tools:
+### ⚙️ Tools and Languages :
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=124bb5)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figmal&logoColor=white&color=124bb5)
