@@ -11,7 +11,7 @@ const nicolasLiu = {
     who: "Business school graduate with a love for coding",
     favoriteTools: ["React", "Nodejs", "Sass", "Figma"],
     askMeAbout: ["web dev", "app dev", "mobile dev"],
-    goals: "Aspiring to be a full stack developer in the future",
+    goals: "Aspiring to work as a full stack developer in the future",
     funFact: "I love playing music and practicing martial arts",
     linkedIn: "https://www.linkedin.com/in/nicolas-liu1"
 };
