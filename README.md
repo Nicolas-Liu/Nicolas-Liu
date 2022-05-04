@@ -16,7 +16,7 @@ const nicolasLiu = {
     linkedIn: "https://www.linkedin.com/in/nicolas-liu1"
 };
 
-console.log('Hit me up on linkedIn for a chat')
+console.log(`Hit me up at ${nicolasLiu.linkedIn} for a chat!`)
 ```
 
 ### 💼 Industry Experience
