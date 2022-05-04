@@ -1,14 +1,16 @@
 ### Hello World! 👋
 <img align="right" alt ="gif" src= "https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="300"/>
 
-- 💻 I'm a Business school graduate with a love for coding
-- 🌱 I’m currently learning ExpressJs
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/nicolas-liu1/" target="_blank">LinkedIn</a>
-- 🎆 Aspiring to be a full stack developer in the future
-- ⚡ Fun fact: I love playing music and practicing martial arts
-- 💼 Industry experience: <br>
-  - Front-End Developer at TedxMontreal (March 2022 - <b>Present</b>)
 
+```javascript
+const nicolasLiu = {
+    who: "Business school graduate with a love for coding",
+    favoriteTools: ["React","Node", "SASS", "Figma"],
+    askMeAbout: ["web dev", "tech", "app dev"],
+    goals: "Aspiring to be a full stack developer in the future",
+    funFact: "I love playing music and practicing martial arts",
+};
+```
 
 ### Languages and Tools:
 
