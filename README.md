@@ -9,9 +9,15 @@ const nicolasLiu = {
     favoriteTools: ["React","Node", "SASS", "Figma"],
     askMeAbout: ["web dev", "app dev", "mobile dev"],
     goals: "Aspiring to be a full stack developer in the future",
-    funFact: "I love playing music and practicing martial arts"
+    funFact: "I love playing music and practicing martial arts",
+    linkedIn: "https://www.linkedin.com/in/nicolas-liu1"
 };
 ```
+
+### 💼 Industry Experience
+- Front-End Developer at TedxMontréal
+    (March 2022 - <b>Present</b>)
+
 
 ### Languages and Tools:
 
