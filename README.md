@@ -12,6 +12,8 @@ const nicolasLiu = {
     funFact: "I love playing music and practicing martial arts",
     linkedIn: "https://www.linkedin.com/in/nicolas-liu1"
 };
+
+console.log('Hit me up on LinkedIn for a chat')
 ```
 
 ### 💼 Industry Experience
