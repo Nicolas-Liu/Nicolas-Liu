@@ -8,7 +8,7 @@
 //A little about me...
 
 const nicolasLiu = {
-    who: "Business school graduate with a love for coding",
+    who: "Front-End Developer",
     favoriteTools: ["React", "Nodejs", "Sass", "Figma"],
     askMeAbout: ["web dev", "app dev", "mobile dev"],
     goals: "Aspiring to be a full stack developer in the future",
