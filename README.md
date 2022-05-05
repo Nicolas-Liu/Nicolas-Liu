@@ -8,7 +8,7 @@
 //A little about me...
 
 const nicolasLiu = {
-    who: "Self-taught software dev with a focus on front-end",
+    who: "Software dev with a focus on front-end",
     favoriteTools: ["React", "Nodejs", "Sass", "Figma"],
     askMeAbout: ["web dev", "app dev", "mobile dev"],
     goals: "Aspiring to be a full stack developer in the future",
@@ -39,6 +39,9 @@ console.log(`Hit me up at ${nicolasLiu.linkedIn} for a chat!`)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=124bb5)
 <br>
 
+<img align="right" alt ="gif" src= "https://cdn.dribbble.com/users/1500250/screenshots/4305931/justjake_dribbble.gif" width="300"/>
+
+                                                                                                
 ![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Liu&show_icons=true&theme=prussian)
 
 
