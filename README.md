@@ -22,7 +22,7 @@ console.log(`Hit me up at ${nicolasLiu.linkedIn} for a chat!`)
 ### 💼 Industry Experience
 - Front-End Developer at TedxMontréal
     (March 2022 - <b>Present</b>)
-- Web Application Developer at Idside
+- React Web Application Developer at Idside
     (May 2022 - <b>Present</b>)
 
 ### ⚙️ Tools and Languages :
