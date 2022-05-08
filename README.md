@@ -35,7 +35,7 @@ console.log(`Hit me up at ${nicolasLiu.linkedIn} for a chat!`)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=124bb5)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=124bb5)
 ![](https://img.shields.io/badge/Tools-MaterialUI-informational?style=flat&logo=MaterialUI&logoColor=white&color=124bb5)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=124bb5)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=124bb5)
 ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=124bb5)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=124bb5)
 <br>
