@@ -1,7 +1,7 @@
 # Hello World! 👋
 <img align="right" alt ="gif" src= "https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="300"/>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=nicolas-liu.nicolas-liu)
+<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=nicolas-liu.nicolas-liu)-->
 
 
 ```javascript
