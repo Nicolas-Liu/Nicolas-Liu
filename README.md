@@ -39,6 +39,7 @@ console.log(`Hit me up at ${nicolasLiu.linkedIn} for a chat!`)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=124bb5)
 ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=124bb5)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=124bb5)
+![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=124bb5)
 <br>
 
 <img align="right" alt ="gif" src= "https://cdn.dribbble.com/users/1500250/screenshots/4305931/justjake_dribbble.gif" width="300"/>
