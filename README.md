@@ -9,6 +9,7 @@
 
 const nicolasLiu = {
     who: "Software dev with a focus on front-end",
+    learning: "React Native",
     favoriteTools: ["TypeScript","React", "Nodejs", "Sass", "Figma"],
     askMeAbout: ["web dev", "app dev", "mobile dev"],
     goals: "Aspiring to be a full stack developer in the future",
