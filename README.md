@@ -12,7 +12,7 @@ const nicolasLiu = {
     learning: "React Native/RN-Paper",
     working on: "Recreating website with TypeScript and React"
     favoriteTools: ["TypeScript","React", "Nodejs", "Sass", "Figma"],
-    askMeAbout: ["web dev", "app dev", "mobile dev"],
+    askMeAbout: ["web app dev" & "mobile dev"],
     goals: "Aspiring to be a full stack developer in the future",
     funFact: "I love playing music and practicing martial arts",
     linkedIn: "https://www.linkedin.com/in/nicolas-liu1"
