@@ -44,7 +44,8 @@ console.log(`Hit me up at ${nicolasLiu.linkedIn} for a chat!`)
 ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=124bb5)
 <br>
 
-<img align="right" alt ="gif" src= "https://cdn.dribbble.com/users/1500250/screenshots/4305931/justjake_dribbble.gif" width="300"/>
+<!--<img align="right" alt ="gif" src= "https://cdn.dribbble.com/users/1500250/screenshots/4305931/justjake_dribbble.gif" width="300"/>-->
+<img align="right" alt ="gif" src= "https://mir-s3-cdn-cf.behance.net/project_modules/disp/7498b717965545.562c188adc4fb.gif" width="400"/>
 
                                                                                                 
 ![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Liu&show_icons=true&theme=prussian)
