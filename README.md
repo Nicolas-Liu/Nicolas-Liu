@@ -13,7 +13,7 @@ const nicolasLiu = {
     workingOn: "Recreating website with TypeScript and React",
     favoriteTools: ["TypeScript","React", "Nodejs", "Sass", "Figma"],
     askMeAbout: ["web app dev", "mobile dev"],
-    goals: "Aspiring to be a full stack developer in the future",
+    goals: "Keep learning everyday",
     funFact: "I love playing music and practicing martial arts",
     linkedIn: "https://www.linkedin.com/in/nicolas-liu1"
 };
