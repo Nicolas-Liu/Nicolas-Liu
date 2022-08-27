@@ -14,7 +14,8 @@ const nicolasLiu = {
     askMeAbout: ["web app dev", "mobile dev"],
     goals: "Keep learning everyday",
     funFact: "I love playing music and practicing martial arts",
-    linkedIn: "https://www.linkedin.com/in/nicolas-liu1"
+    linkedIn: "https://www.linkedin.com/in/nicolas-liu1",
+    website: "https://nliu.netlify.app"
 };
 
 console.log(`Hit me up at ${nicolasLiu.linkedIn} for a chat!`)
