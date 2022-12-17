@@ -45,7 +45,7 @@ console.log(`Hit me up at ${nicolasLiu.linkedIn} for a chat!`)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=124bb5)
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=124bb5)
 <br>
-
+&nbsp;
 <!--<img align="right" alt ="gif" src= "https://cdn.dribbble.com/users/1500250/screenshots/4305931/justjake_dribbble.gif" width="300"/>-->
 <!--<img align="right" alt ="gif" src= "https://mir-s3-cdn-cf.behance.net/project_modules/disp/7498b717965545.562c188adc4fb.gif" width="310"/>-->
 
