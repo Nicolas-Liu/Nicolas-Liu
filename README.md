@@ -52,6 +52,5 @@ console.log(`Hit me up at ${nicolasLiu.linkedIn} for a chat!`)
                                                                                                 
 ![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Liu&show_icons=true&theme=prussian)
 
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Liu&layout=compact)](https://github.com/Nicolas-Liu/github-readme-stats) -->
- 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Liu&layout=compact)](https://github.com/Nicolas-Liu/github-readme-stats)  -->
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Liu&layout=compact&langs_count=8&hide_border=true&title_color=a8d1f7&icon_color=000000&text_color=93b2cf&bg_color=1d3e5c)
