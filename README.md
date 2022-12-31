@@ -30,9 +30,10 @@ console.log(`Hit me up at ${nicolasLiu.linkedIn} for a chat!`)
 
 ### ⚙️ Tools and Languages :
 
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=124bb5)
+<!-- ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=124bb5) -->
 ![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=react&logoColor=white&color=124bb5)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=124bb5)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=124bb5)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figmal&logoColor=white&color=124bb5)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=Sass&logoColor=white&color=124bb5)
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=nodejs&logoColor=white&color=124bb5)
@@ -44,6 +45,7 @@ console.log(`Hit me up at ${nicolasLiu.linkedIn} for a chat!`)
 ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=124bb5)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=124bb5)
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=124bb5)
+
 <br>
 &nbsp;
 <!--<img align="right" alt ="gif" src= "https://cdn.dribbble.com/users/1500250/screenshots/4305931/justjake_dribbble.gif" width="300"/>-->
