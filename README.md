@@ -22,11 +22,11 @@ const nicolasLiu = {
 console.log(`Hit me up at ${nicolasLiu.linkedIn} for a chat!`)
 ```
 
-### 💼 Industry Experience
+<!-- ### 💼 Industry Experience
 - Front-End Developer at TedxMontréal
     (Feb 2022 - Feb 2023)
 - React Web Application Developer at Idside
-    (May 2022 - <b>Present</b>)
+    (May 2022 - <b>Present</b>) -->
 
 ### ⚙️ Tools and Languages :
 
