@@ -12,9 +12,9 @@ const nicolasLiu = {
     who: "Software dev with a focus on front-end",
     learning: ["Kotlin", "Jetpack Compose"],
     favoriteTools: ["TypeScript","React", "Nodejs", "Sass", "Figma"],
-    askMeAbout: ["web app dev", "mobile dev"],
+    askMeAbout: "Web Dev",
     goals: "Keep learning everyday",
-    funFact: "I love playing music and practicing martial arts",
+    hobbies:  ["Music", "Jiu Jitsu"],
     linkedIn: "https://www.linkedin.com/in/nicolas-liu1",
     website: "https://nliu.netlify.app"
 };
